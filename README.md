@@ -1,8 +1,8 @@
-#PASI 2013: "The science of understanding tsunamis, storm surges and tidal phenomena"
+#PASI 2013 Lessons, in Python 
+##"The science of understanding tsunamis, storm surges and tidal phenomena"
+###An event held in Valparaiso, Chile, with funding from NSF and DOE under the PASI program.
 
-###held in Valparaiso, Chile, with funding from NSF and DOE under the PASI program.
-
-These lessons were prepared during Fall 2013 based on the lecture notes from the mini-courses at the PASI (Jan. 2013).
+These lessons were prepared during Fall 2013, inspired by some of the lecture notes from the mini-courses at the PASI (Jan. 2013).
 
 The institute was led by [Prof. Lorena A.](http://lorenabarba.com/) Barba and the instructors were:
 
