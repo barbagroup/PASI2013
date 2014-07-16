@@ -10,7 +10,7 @@ The institute was led by [Prof. Lorena A. Barba](http://lorenabarba.com/)  and t
 - Cheryl Ann Blain
 - Donna Calhoun
 - Changsheng Chen
-- David George NEW!
+- David George
 - Philip Liu
 - Patrick Lynett
 - Ridgway Scott
