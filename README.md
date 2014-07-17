@@ -3,7 +3,7 @@
 ###Valparaiso, Chile (Jan. 2013)
 ####with funding from NSF and DOE under the PASI program, and additional support from ONR Global, Santiago.
 
-These lessons were prepared during Fall 2013, inspired by some of the lecture notes from the mini-courses at the PASI (Jan. 2013). They present foundations to understanding mathematical models such as waves and shallow-water phenomena.
+These lessons were prepared during Fall 2013, inspired by some of the lecture notes from the mini-courses at the PASI (Jan. 2013) and background material from Prof. Barba's CFD course. They present foundations to understanding mathematical models such as waves and shallow-water phenomena.
 
 The institute was led by [Prof. Lorena A. Barba](http://lorenabarba.com/)  and the instructors were:
 
