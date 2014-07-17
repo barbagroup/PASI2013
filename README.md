@@ -22,9 +22,14 @@ You can find brief biographies of the instructors on the [People](http://www.bu.
 
 ###Notebooks
 
-[Exploring schemes with Burgers' equation](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/01_Burgers.equation.ipynb)
-[Sod's Shock Tube](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/02_Sod.Shock.Tube.ipynb)
-[Shallow Water Equations in 1D with Python and NumPy](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/03_Shallow.Water.1D.Python.ipynb)
-[Intro to solving SWE with PyClaw in 1d](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/04_Shallow.Water.1D.ipynb)
-[Solving SWE with PyClaw in 2d](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/05_Shallow.Water.2D.ipynb)
-[Conservative and Non-conservative Forms](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/Conservative.vs.Nonconservative.Forms.ipynb)
+*  [Exploring schemes with Burgers' equation](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/01_Burgers.equation.ipynb)
+
+*  [Sod's Shock Tube](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/02_Sod.Shock.Tube.ipynb)
+
+*  [Shallow Water Equations in 1D with Python and NumPy](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/03_Shallow.Water.1D.Python.ipynb)
+
+*  [Intro to solving SWE with PyClaw in 1d](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/04_Shallow.Water.1D.ipynb)
+
+*  [Solving SWE with PyClaw in 2d](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/05_Shallow.Water.2D.ipynb)
+
+*  [Conservative and Non-conservative Forms](http://nbviewer.ipython.org/github/barbagroup/PASI2013/blob/master/lessons/Conservative.vs.Nonconservative.Forms.ipynb)
